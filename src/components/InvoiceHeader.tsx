@@ -8,7 +8,7 @@ export function InvoiceHeader({ invoiceNumber, onInvoiceNumberChange }: InvoiceH
     <div className=" border-primary m-0 p-0">
       {/* Header Image */}
       <img
-        src="/header-dtl.png"
+        src="/header-kpl.png"
         alt="Invoice Header"
         className="w-full object-contain block m-0 p-0"
       />
